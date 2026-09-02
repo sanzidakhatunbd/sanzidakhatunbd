@@ -1,7 +1,7 @@
 <!--  BANNER -->
 
 <p align="center">
-  <img src="./banner/banner.png" alt="Sanzida Khatun GitHub Banner">
+  <img src="./banner.png" alt="Sanzida Khatun GitHub Banner">
 </p>
 
 <br>
