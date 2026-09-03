@@ -80,25 +80,7 @@
 
 ---
 
-<!--  GITHUB STATS  -->
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/sanzidakhatunbd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanzidakhatunbd&show_icons=true&theme=swift&hide_border=true&count_private=true" alt="Sanzida's GitHub Stats">
-</a>
-
-<a href="https://github.com/sanzidakhatunbd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzidakhatunbd&layout=compact&theme=swift&hide_border=true" alt="Sanzida's Top Languages">
-</a>
-
-</div>
-
-<br>
-
----
 
 <!--  GITHUB STREAK  -->
 
@@ -116,19 +98,6 @@
 
 ---
 
-<!--  CONTRIBUTION GRAPH  -->
-
-## 🐍 My Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sanzidakhatunbd/sanzidakhatunbd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
-<br>
-
----
 
 <!--  CURRENTLY LEARNING  -->
 
@@ -184,21 +153,17 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:mostsanzidakhatunbd@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email">
 </a>
 
-  
-
 <a href="https://github.com/sanzidakhatunbd">
-  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
 </a>
 
 </p>
-
-📧 **Email:** [mostsanzidakhatunbd@gmail.com](mailto:mostsanzidakhatunbd@gmail.com)
 
 <br>
 
