@@ -1,182 +1,90 @@
 <!--  BANNER -->
-
 <p align="center">
   <img src="./banner.png" alt="Sanzida Khatun GitHub Banner">
 </p>
 
-<br>
-
 <!--  INTRO -->
-
 <div align="center">
 
-# Hi 👋, I'm Sanzida Khatun
+# Hi, I'm Sanzida Khatun
+<h4><i>Learning Full Stack Web Development</i></h4>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=23&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Learning+Full+Stack+Web+Development;Exploring+Modern+Web+Technologies;Learning+by+Building+Projects;Always+Learning+Something+New" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+React+%26+Node.js;Learning+by+Building+Real+Projects" alt="Typing SVG">
 </a>
 
 </div>
 
 <br>
 
----
+## About Me
 
-<!--  ABOUT ME  -->
+I'm currently learning full stack web development, with a focus on building clean, responsive, and user-friendly websites. I learn best by building — so most of my time goes into small practice projects that push me to apply new concepts as I pick them up.
 
-## 👩‍💻 About Me
-
-* 🌱 Currently learning **Full Stack Web Development**
-* 💻 Learning and exploring modern web technologies
-* 🎨 Interested in creating clean, responsive & user-friendly websites
-* 🛠️ Learning through projects, practice and experimentation
-* 📚 Currently improving my development and problem-solving skills
-* 🚀 Building projects while learning new technologies
-* 💡 **Learning today, building tomorrow.**
+**Currently:**
+- Deepening my JavaScript fundamentals
+- Exploring React for building user interfaces
+- Getting started with Node.js on the backend
+- Working toward becoming a confident full stack developer
 
 <br>
 
----
+## Skills
 
-<!--  TECHNOLOGY STACK  -->
+<table>
+<tr>
+<td valign="top" width="40%">
 
-## 🛠️ Technologies I'm Learning
+**Frontend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind&theme=light" alt="Frontend skills">
 
-### 🌐 Frontend
+</td>
+<td valign="top" width="30%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js" alt="Frontend Technologies">
-</p>
+**Exploring**
+<br><br>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs&theme=light" alt="Currently exploring">
 
-### ⚛️ Currently Exploring
+</td>
+<td valign="top" width="30%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs" alt="Currently Learning">
-</p>
+**Tools**
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" alt="Tools">
 
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools">
-</p>
-
-<br>
-
----
-
-<!--  LEARNING JOURNEY  -->
-
-## 🌱 My Learning Journey
-
-<div align="center">
-
-**HTML** → **CSS** → **Bootstrap & Tailwind CSS** → **JavaScript**  
-↓  
-**TypeScript** → **React** → **Node.js** → **...** → **Full Stack Development**
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
----
-
-
-
-<!--  GITHUB STREAK  -->
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/sanzidakhatunbd">
-  <img src="https://streak-stats.demolab.com/?user=sanzidakhatunbd&theme=default&hide_border=true" alt="Sanzida's GitHub Streak">
-</a>
-
-</div>
-
-<br>
-
----
-
-
-<!--  CURRENTLY LEARNING  -->
-
-## 📚 Currently Learning
-
-<div align="center">
-
-| 🌱 Learning            | 🎯 Goal                         |
-| :--------------------- | :------------------------------ |
-| JavaScript             | Build strong fundamentals       |
-| TypeScript             | Write better & scalable code    |
-| React                  | Build modern user interfaces    |
-| Node.js                | Understand backend development  |
-| Full Stack Development | Build complete web applications |
-
-</div>
-
-<br>
-
----
-
-<!-- WHAT I'M WORKING ON  -->
-
-## 🚀 What I'm Working On
-
-* 🧩 Building small projects to strengthen my fundamentals
-* 🌱 Improving my JavaScript skills
-* ⚛️ Exploring React
-* 📘 Learning TypeScript
-* 🖥️ Exploring backend development with Node.js
-* 🎨 Practicing modern and responsive web design
-* 📚 Learning something new every day
-
-<br>
-
----
-
-<!--  GOALS  -->
-
-## 🎯 My Goals
-
-* 💻 Become a confident Full Stack Web Developer
-* 🧠 Build strong problem-solving skills
-* 🚀 Create useful and real-world projects
-* 🌍 Contribute to open-source projects
-* 📈 Keep learning and improving continuously
-
-<br>
-
----
-
-<!--  CONNECT  -->
-
-## 📫 Connect With Me
+## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanzidakhatunbd&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzidakhatunbd&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
+</p>
 
-<a href="mailto:mostsanzidakhatunbd@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email">
-</a>
-
-<a href="https://github.com/sanzidakhatunbd">
-  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
-</a>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sanzidakhatunbd&theme=default&hide_border=true" alt="GitHub Streak">
 </p>
 
 <br>
 
----
+## Connect With Me
 
-<!--  FOOTER  -->
-
-<div align="center">
-
-### ✨ Learning today, building tomorrow. ✨
+<p align="center">
+<a href="mailto:mostsanzidakhatunbd@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email">
+</a>
+<a href="https://github.com/sanzidakhatunbd">
+  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub">
+</a>
+</p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sanzidakhatunbd&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views">
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanzidakhatunbd&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views">
+</p>
