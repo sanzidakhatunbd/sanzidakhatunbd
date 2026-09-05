@@ -6,15 +6,14 @@
 <!--  INTRO -->
 <div align="center">
 
-# Hi, I'm Sanzida Khatun
-<h4><i>Learning Full Stack Web Development</i></h4>
+<h3><b>Hi, I'm Sanzida Khatun</b></h3>
+<h5><i>Learning Full Stack Web Development</i></h5>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+HTML%2C+CSS+%26+JavaScript;Exploring+React+%26+Node.js;Learning+by+Building+Real+Projects" alt="Typing SVG">
 </a>
 
 </div>
-
 <br>
 
 ## About Me
@@ -26,7 +25,6 @@ I'm currently learning full stack web development, with a focus on building clea
 - Exploring React for building user interfaces
 - Getting started with Node.js on the backend
 - Working toward becoming a confident full stack developer
-
 <br>
 
 ## Skills
@@ -56,7 +54,6 @@ I'm currently learning full stack web development, with a focus on building clea
 </td>
 </tr>
 </table>
-
 <br>
 
 ## GitHub Stats
@@ -69,7 +66,6 @@ I'm currently learning full stack web development, with a focus on building clea
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sanzidakhatunbd&theme=default&hide_border=true" alt="GitHub Streak">
 </p>
-
 <br>
 
 ## Connect With Me
@@ -82,7 +78,6 @@ I'm currently learning full stack web development, with a focus on building clea
   <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub">
 </a>
 </p>
-
 <br>
 
 <p align="center">
